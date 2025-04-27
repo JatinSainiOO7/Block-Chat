@@ -1,0 +1,15 @@
+center{
+    display: block;
+    margin: 10%;
+}
+
+h1{
+    padding-top: 1%;
+    font-family: monospace;
+}
+
+p{
+    font-family: serif;
+    font-size: x-large;
+    color: chocolate;
+}
